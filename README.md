@@ -1,4 +1,26 @@
-## Hi there 👋
+# Igarin ([@igarin14pm](https://github.com/igarin14pm))
+
+こんにちは〜
+
+趣味でコードを書いています
+
+## 言語
+
+### iOSアプリ開発
+
+- Swift
+
+### Webページ・Webアプリ制作
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript (勉強中)
+
+### Androidアプリ開発 (ずっとやってない)
+
+- Kotlin
+- Java
 
 <!--
 **igarin14pm/igarin14pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
